@@ -22,6 +22,17 @@ Thumbs.db
 *_highscore.txt
 *.log
 
+# Non-code deliverables
+*.doc
+*.docx
+*.pdf
+*.ppt
+*.pptx
+*报告*
+*论文*
+*开题*
+*答辩*
+
 # Local media captures
 screenshots/
 captures/
